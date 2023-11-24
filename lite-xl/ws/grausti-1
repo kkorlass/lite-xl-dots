@@ -1,0 +1,1 @@
+return { path = "/home/kk/proj/grausti", documents = {["active_view"]=1,["views"]={[1]={["selection"]={[1]=9,[2]=3,[3]=9,[4]=3},["text"]=false,["filename"]="themes/grausti/style.css",["active"]=true,["scroll"]={["x"]=0,["y"]=0},["type"]="doc"}},["type"]="leaf"}, directories = {} }

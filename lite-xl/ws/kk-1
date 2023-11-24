@@ -1,0 +1,1 @@
+return { path = "/home/kk", documents = {["active_view"]=1,["type"]="leaf",["views"]={[1]={["scroll"]={["x"]=0,["to"]={["x"]=0,["y"]=0},["y"]=0},["type"]="view",["module"]="core.emptyview",["active"]=true}}}, directories = {} }

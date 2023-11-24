@@ -1,0 +1,1 @@
+return { path = "/home/kk/skola", documents = {["active_view"]=1,["type"]="leaf",["views"]={[1]={["selection"]={[1]=6,[2]=18,[3]=6,[4]=18},["type"]="doc",["text"]=false,["active"]=true,["scroll"]={["x"]=0,["y"]=0},["filename"]="lietojumprogrammaturas-automatizesanas-riki/28-10-2023/a.py"}}}, directories = {} }

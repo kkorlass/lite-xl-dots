@@ -1,0 +1,1 @@
+return { path = "/home/kk/proj/zoodev", documents = {["views"]={[1]={["active"]=true,["text"]=false,["scroll"]={["x"]=0,["y"]=33611.366869803},["filename"]="public/wp-content/themes/zoo/functions.php",["selection"]={[1]=1594,[2]=20,[3]=1594,[4]=20},["type"]="doc"}},["active_view"]=1,["type"]="leaf"}, directories = {} }
